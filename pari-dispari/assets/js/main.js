@@ -56,6 +56,8 @@ if (sceltaUtente === "pari" && pari === true) {
   alert("input non valido");
 }
 
+// stampo i valori principali
+
 console.log("Scelta Utente: ", sceltaUtente);
 console.log("Numero Utente: ", numeroUtente);
 console.log("Numero pc: ", numeroPc);
